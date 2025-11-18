@@ -9,7 +9,7 @@ app.use(cors());
 const db = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "Immu@9866",
+  password: "Your SQL Password",
   database: "studentregdb",
 });
 
